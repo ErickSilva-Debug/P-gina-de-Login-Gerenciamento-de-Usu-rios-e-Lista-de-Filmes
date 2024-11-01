@@ -1,5 +1,7 @@
 body {
   background: linear-gradient(120deg, #89f7fe, #66a6ff);
+  background-size: 400% 400%;
+  animation: colors 5s ease infinite;
   font-family: 'Arial', sans-serif;
   color: #333;
   margin: 0;
